@@ -34,7 +34,7 @@ def home():
         f"Available Routes:<br/>"
         f"<br/>"
 
-        f"1) List of prior year rain totals from all stations<br/>"
+        f"1) List of prior year precipitation from all stations<br/>"
         f"/api/v1.0/precipitation<br/>"
         f"<br/>"
 
